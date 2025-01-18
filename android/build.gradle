@@ -27,7 +27,7 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
-
+    namespace 'io.flutterfastkit.fk_user_agent'
     lintOptions {
         disable 'InvalidPackage'
     }
